@@ -1,5 +1,25 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-hdrhistogram-hdrhistogram-go (1.1.2-3) unstable; urgency=medium
+
+  * Team upload
+
+  [ Aloïs Micard ]
+  * update debian/gitlab-ci.yml (using pkg-go-tools/ci-config)
+
+  [ Mathias Gibbens ]
+  * d/control:
+    - Update Standards-Version to 4.6.2 (no changes needed)
+    - Add Multi-Arch: foreign
+
+ -- Mathias Gibbens <gibmat@debian.org>  Wed, 12 Jul 2023 22:09:00 +0000
+
+golang-github-hdrhistogram-hdrhistogram-go (1.1.2-2) unstable; urgency=medium
+
+  * upload source package
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Mon, 04 Oct 2021 21:17:28 +0000
+
+golang-github-hdrhistogram-hdrhistogram-go (1.1.2-1) unstable; urgency=medium
 
   * Initial release
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Thorsten Alteholz <debian@alteholz.de>  Thu, 26 Aug 2021 20:43:21 +0000
